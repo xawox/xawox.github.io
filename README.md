@@ -1,2 +1,2 @@
 # xawox.github.io
-Xavier's Guthub Page
+Xavier's Github Page
